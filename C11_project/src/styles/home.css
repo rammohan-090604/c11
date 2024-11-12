@@ -1,0 +1,26 @@
+.css-design{
+    height: 100vh;
+}
+body, html {
+  scroll-behavior: smooth;
+}
+
+/* Project Title Styling */
+.project-title {
+  background: linear-gradient(90deg, rgba(255, 0, 0, 0.8) 0%, rgb(244, 61, 28) 100%);
+}
+
+/* Project Importance Styling */
+.project-importance {
+  transition: all 0.3s ease-in-out;
+}
+
+/* Process Section Styling */
+.process {
+  border-top: 2px solid red;
+}
+
+/* Data Safety Section Styling */
+.data-safety {
+  border-top: 2px dashed red;
+}

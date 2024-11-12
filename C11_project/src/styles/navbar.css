@@ -1,0 +1,14 @@
+header {
+    width: 100%;
+    position: relative;
+    z-index: 1000;
+    background-color: #ffffff;
+}   
+
+
+@media (min-width: 768px) {
+    header {
+        position: fixed;
+        width: 100%;
+    }
+}
